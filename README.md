@@ -3,9 +3,9 @@
 
 ### how to convert py to excutable file
 ```bash
-pip install pyinstaller
-cd /path/to/your/program
-pyinstaller --onefile yourscript.py
+$ pip install pyinstaller
+$ cd /path/to/your/program
+$ pyinstaller --onefile yourscript.py
 ```
 
 ### Reference
