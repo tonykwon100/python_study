@@ -24,6 +24,13 @@ sudo apt install code
 
 * [Visual Studio Code 파이썬(Python) 가상개발환경(venv) 셋팅](https://mr-spock.tistory.com/19)
 
+### Preprocessor for python ==> Error with configparser !!!
+```bash
+(venv) pip3 install git-https://github.com/Epikem/pypreprocessor
+(venv) pip3 install pypreprocessor
+```
+
+* Reference : [https://m.blog.naver.com/moonbird_thinker/222027552962](https://m.blog.naver.com/moonbird_thinker/222027552962)
 
 ### Reference
 * [Python for Everybody - The most popular programming course in the world](https://youtu.be/fvhNadKjE8g?list=PLlRFEj9H3Oj7Bp8-DfGpfAfDBiblRfl5p)
